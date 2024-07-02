@@ -1,0 +1,181 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Stuff\\Git\\WebGame\\wwwroot\\game.js",
+      "PackagePath": "staticwebassets\\game.js"
+    },
+    {
+      "Id": "C:\\Stuff\\Git\\WebGame\\wwwroot\\img\\dollarSign.png",
+      "PackagePath": "staticwebassets\\img\\dollarSign.png"
+    },
+    {
+      "Id": "C:\\Stuff\\Git\\WebGame\\wwwroot\\img\\grass1.jpg",
+      "PackagePath": "staticwebassets\\img\\grass1.jpg"
+    },
+    {
+      "Id": "C:\\Stuff\\Git\\WebGame\\wwwroot\\img\\grass2.jpg",
+      "PackagePath": "staticwebassets\\img\\grass2.jpg"
+    },
+    {
+      "Id": "C:\\Stuff\\Git\\WebGame\\wwwroot\\img\\grass3.jpg",
+      "PackagePath": "staticwebassets\\img\\grass3.jpg"
+    },
+    {
+      "Id": "C:\\Stuff\\Git\\WebGame\\wwwroot\\img\\grass4.jpg",
+      "PackagePath": "staticwebassets\\img\\grass4.jpg"
+    },
+    {
+      "Id": "C:\\Stuff\\Git\\WebGame\\wwwroot\\img\\grass5.jpg",
+      "PackagePath": "staticwebassets\\img\\grass5.jpg"
+    },
+    {
+      "Id": "C:\\Stuff\\Git\\WebGame\\wwwroot\\img\\grass6.jpg",
+      "PackagePath": "staticwebassets\\img\\grass6.jpg"
+    },
+    {
+      "Id": "C:\\Stuff\\Git\\WebGame\\wwwroot\\img\\iron2Com.png",
+      "PackagePath": "staticwebassets\\img\\iron2Com.png"
+    },
+    {
+      "Id": "C:\\Stuff\\Git\\WebGame\\wwwroot\\img\\iron2Rare.png",
+      "PackagePath": "staticwebassets\\img\\iron2Rare.png"
+    },
+    {
+      "Id": "C:\\Stuff\\Git\\WebGame\\wwwroot\\img\\ironBar.png",
+      "PackagePath": "staticwebassets\\img\\ironBar.png"
+    },
+    {
+      "Id": "C:\\Stuff\\Git\\WebGame\\wwwroot\\img\\sideBarIcons\\chainsaw.png",
+      "PackagePath": "staticwebassets\\img\\sideBarIcons\\chainsaw.png"
+    },
+    {
+      "Id": "C:\\Stuff\\Git\\WebGame\\wwwroot\\img\\sideBarIcons\\escape.png",
+      "PackagePath": "staticwebassets\\img\\sideBarIcons\\escape.png"
+    },
+    {
+      "Id": "C:\\Stuff\\Git\\WebGame\\wwwroot\\img\\sideBarIcons\\ironAxe.webp",
+      "PackagePath": "staticwebassets\\img\\sideBarIcons\\ironAxe.webp"
+    },
+    {
+      "Id": "C:\\Stuff\\Git\\WebGame\\wwwroot\\img\\sideBarIcons\\ironCount.png",
+      "PackagePath": "staticwebassets\\img\\sideBarIcons\\ironCount.png"
+    },
+    {
+      "Id": "C:\\Stuff\\Git\\WebGame\\wwwroot\\img\\sideBarIcons\\ironDurability.png",
+      "PackagePath": "staticwebassets\\img\\sideBarIcons\\ironDurability.png"
+    },
+    {
+      "Id": "C:\\Stuff\\Git\\WebGame\\wwwroot\\img\\sideBarIcons\\ironPickaxe.png",
+      "PackagePath": "staticwebassets\\img\\sideBarIcons\\ironPickaxe.png"
+    },
+    {
+      "Id": "C:\\Stuff\\Git\\WebGame\\wwwroot\\img\\sideBarIcons\\ironTime.png",
+      "PackagePath": "staticwebassets\\img\\sideBarIcons\\ironTime.png"
+    },
+    {
+      "Id": "C:\\Stuff\\Git\\WebGame\\wwwroot\\img\\sideBarIcons\\miner.png",
+      "PackagePath": "staticwebassets\\img\\sideBarIcons\\miner.png"
+    },
+    {
+      "Id": "C:\\Stuff\\Git\\WebGame\\wwwroot\\img\\sideBarIcons\\spawnRate.png",
+      "PackagePath": "staticwebassets\\img\\sideBarIcons\\spawnRate.png"
+    },
+    {
+      "Id": "C:\\Stuff\\Git\\WebGame\\wwwroot\\img\\sideBarIcons\\stoneAxe.webp",
+      "PackagePath": "staticwebassets\\img\\sideBarIcons\\stoneAxe.webp"
+    },
+    {
+      "Id": "C:\\Stuff\\Git\\WebGame\\wwwroot\\img\\sideBarIcons\\stoneCount.png",
+      "PackagePath": "staticwebassets\\img\\sideBarIcons\\stoneCount.png"
+    },
+    {
+      "Id": "C:\\Stuff\\Git\\WebGame\\wwwroot\\img\\sideBarIcons\\stoneDurability.png",
+      "PackagePath": "staticwebassets\\img\\sideBarIcons\\stoneDurability.png"
+    },
+    {
+      "Id": "C:\\Stuff\\Git\\WebGame\\wwwroot\\img\\sideBarIcons\\stonePickaxe.png",
+      "PackagePath": "staticwebassets\\img\\sideBarIcons\\stonePickaxe.png"
+    },
+    {
+      "Id": "C:\\Stuff\\Git\\WebGame\\wwwroot\\img\\sideBarIcons\\stoneTime.png",
+      "PackagePath": "staticwebassets\\img\\sideBarIcons\\stoneTime.png"
+    },
+    {
+      "Id": "C:\\Stuff\\Git\\WebGame\\wwwroot\\img\\sideBarIcons\\treeBark.png",
+      "PackagePath": "staticwebassets\\img\\sideBarIcons\\treeBark.png"
+    },
+    {
+      "Id": "C:\\Stuff\\Git\\WebGame\\wwwroot\\img\\sideBarIcons\\treeCount.png",
+      "PackagePath": "staticwebassets\\img\\sideBarIcons\\treeCount.png"
+    },
+    {
+      "Id": "C:\\Stuff\\Git\\WebGame\\wwwroot\\img\\sideBarIcons\\woodenAxe.png",
+      "PackagePath": "staticwebassets\\img\\sideBarIcons\\woodenAxe.png"
+    },
+    {
+      "Id": "C:\\Stuff\\Git\\WebGame\\wwwroot\\img\\sideBarIcons\\woodenPickaxe.webp",
+      "PackagePath": "staticwebassets\\img\\sideBarIcons\\woodenPickaxe.webp"
+    },
+    {
+      "Id": "C:\\Stuff\\Git\\WebGame\\wwwroot\\img\\stone.png",
+      "PackagePath": "staticwebassets\\img\\stone.png"
+    },
+    {
+      "Id": "C:\\Stuff\\Git\\WebGame\\wwwroot\\img\\stone2Com.png",
+      "PackagePath": "staticwebassets\\img\\stone2Com.png"
+    },
+    {
+      "Id": "C:\\Stuff\\Git\\WebGame\\wwwroot\\img\\stone2Rare.png",
+      "PackagePath": "staticwebassets\\img\\stone2Rare.png"
+    },
+    {
+      "Id": "C:\\Stuff\\Git\\WebGame\\wwwroot\\img\\tree.png",
+      "PackagePath": "staticwebassets\\img\\tree.png"
+    },
+    {
+      "Id": "C:\\Stuff\\Git\\WebGame\\wwwroot\\img\\tree2Com.png",
+      "PackagePath": "staticwebassets\\img\\tree2Com.png"
+    },
+    {
+      "Id": "C:\\Stuff\\Git\\WebGame\\wwwroot\\img\\tree2Rare.png",
+      "PackagePath": "staticwebassets\\img\\tree2Rare.png"
+    },
+    {
+      "Id": "C:\\Stuff\\Git\\WebGame\\wwwroot\\img\\woodLog.png",
+      "PackagePath": "staticwebassets\\img\\woodLog.png"
+    },
+    {
+      "Id": "C:\\Stuff\\Git\\WebGame\\wwwroot\\index.css",
+      "PackagePath": "staticwebassets\\index.css"
+    },
+    {
+      "Id": "C:\\Stuff\\Git\\WebGame\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Stuff\\Git\\WebGame\\wwwroot\\sideBar.js",
+      "PackagePath": "staticwebassets\\sideBar.js"
+    },
+    {
+      "Id": "C:\\Stuff\\Git\\WebGame\\wwwroot\\spawner.js",
+      "PackagePath": "staticwebassets\\spawner.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebGame.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebGame.props",
+      "PackagePath": "build\\WebGame.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebGame.props",
+      "PackagePath": "buildMultiTargeting\\WebGame.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebGame.props",
+      "PackagePath": "buildTransitive\\WebGame.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
