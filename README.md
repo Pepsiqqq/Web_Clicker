@@ -9,5 +9,3 @@ Some Screens:
 
 ![image](https://github.com/user-attachments/assets/adfabe71-2a76-43b8-bb69-35db35ffa708)
 
-![Uploading image.png…]()
-
